@@ -24,8 +24,8 @@ O foco principal deste repositório é demonstrar a implementação de um CRUD c
 * **Linguagem:** C#
 * **Framework:** ASP.NET Core (Web API)
 * **ORM:** Entity Framework Core
-* **Banco de Dados:** SQLite / PostgreSQL (Ajuste conforme sua preferência)
-* **Documentação:** Swagger (Swashbuckle)
+* **Banco de Dados:** SQLite / PostgreSQL
+* **Documentação:** Swagger
 
 ## 📌 Funcionalidades
 - [x] **Create:** Criar uma nova tarefa.
@@ -37,4 +37,4 @@ O foco principal deste repositório é demonstrar a implementação de um CRUD c
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/TodoListAPI.git](https://github.com/seu-usuario/TodoListAPI.git)
+   git clone [https://github.com/jamerson-mt/TodoListAPI.git](https://github.com/jamerson-mt/TodoListAPI.git)
